@@ -1,0 +1,23 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "\"# Week-7-Project\" \r \"# WEEK8Project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hallhann/Week-7-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hallhann/Week-7-Project/issues"
+  },
+  "homepage": "https://github.com/hallhann/Week-7-Project#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.6.3"
+  }
+}
